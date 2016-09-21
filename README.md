@@ -1,4 +1,4 @@
-# iML
+# IML
 
 [![Build Status](https://travis-ci.org/slundberg/iML.jl.svg?branch=master)](https://travis-ci.org/slundberg/iML.jl)
 
