@@ -6,11 +6,5 @@
 
 [![codecov.io](http://codecov.io/github/interpretable-ml/iML.jl/coverage.svg?branch=master)](http://codecov.io/github/slundberg/iML.jl?branch=master)
 
-This is a very thin wrapper around the code in the main `iml` project. It pulls the code in through [subtrees](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging). To merge in the latest updates from the main project:
-
-```shell
-git checkout iml
-git pull
-git checkout master
-git merge --squash -Xsubtree=iml iml
+This is a very thin wrapper around the code in the main `iml` project.
 ```
